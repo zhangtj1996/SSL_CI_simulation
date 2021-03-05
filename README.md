@@ -1,3 +1,3 @@
 # SSL_CI_simulation
 
-This is a reimplement for linear Gaussian simulation in the paper "Predicting What You Already Know Helps: Provable Self-Supervised Learning".
+This is a reimplement for linear Gaussian simulation in the paper "Predicting What You Already Know Helps: Provable Self-Supervised Learning" https://arxiv.org/pdf/2008.01064.pdf.
